@@ -17,10 +17,10 @@
 		<spring-cloud.version>2021.0.1</spring-cloud.version>
 		
 		<sonar.java.binaries>target/classes</sonar.java.binaries>
-		<sonar.login>c195b48b6f208081843630a1bb4021e9239329b6</sonar.login>
+		<sonar.login>9afb60e7f59a0b3379110a71e256889f99f1648b</sonar.login>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
 		
-		<sonar.projectKey>employee-service</sonar.projectKey>
+		<sonar.projectKey>employeeService</sonar.projectKey>
 		<sonar.exclusions>
 		src/main/java/com/team3/employee/*.java,
 		src/main/java/com/team3/employee/exception/*.java,
