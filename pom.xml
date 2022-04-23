@@ -17,9 +17,9 @@
 		<spring-cloud.version>2021.0.1</spring-cloud.version>
 
 		<sonar.java.binaries>target/classes</sonar.java.binaries>
-		<sonar.login>e9b2f95735dc188cdfb54db6df4b77ce21f60d1c</sonar.login>
+		<sonar.login>b5f8c54f98ef31b7ce0f72e2f1482cbafa656616</sonar.login>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.projectKey>trainer-service</sonar.projectKey>
+		<sonar.projectKey>trainerService</sonar.projectKey>
 		<sonar.exclusions>
 		src/main/java/com/team3/trainer/*.java,
 		src/main/java/com/team3/trainer/exception/*.java,
